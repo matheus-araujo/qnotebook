@@ -1,0 +1,9 @@
+numpy
+scipy
+jupyter
+matplotlib
+pandas
+seaborn
+networkx
+PennyLane
+qiskit
